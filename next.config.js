@@ -16,7 +16,7 @@ module.exports = {
     network: 'mainnet',
     chainId: 1,
     pageHeader : 'Degen Doods NFT',
-    pageText : 'Mint and collect the Rootinest, Tootinest NFT ever.',
+    pageText : 'Degen For Life!',
     //mintType: "Whitelist",
     blockExplorerURL: 'https://.etherscan.io/',
     www: 'https://degendoodsNFT.com/',
